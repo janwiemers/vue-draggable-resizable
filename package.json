@@ -1,6 +1,6 @@
 {
-  "name": "vue-draggable-resizable",
-  "version": "2.1.0",
+  "name": "@nlsn/vue-draggable-resizable",
+  "version": "2.1.2",
   "author": "Maurizio Bonani <maurizio.bonani@gmail.com>",
   "main": "dist/VueDraggableResizable.umd.min.js",
   "unpkg": "dist/VueDraggableResizable.umd.min.js",
@@ -34,6 +34,7 @@
     "babel-plugin-istanbul": "^5.2.0",
     "babel-preset-vue": "^2.0.2",
     "chai": "^4.1.2",
+    "core-js": "^3.6.2",
     "cross-env": "^5.2.1",
     "git-directory-deploy": "^1.5.1",
     "karma": "^4.3.0",
